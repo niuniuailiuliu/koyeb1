@@ -1,10 +1,4 @@
-# 某容器云部署Xray高性能代理服务
 
-在某容器云部署Xray高性能代理服务，通过ws传输的(vmess、vless、trojan、shadowsocks、socks)等协议
-
-说明：https://owo.misaka.rest/koyeb-xray/
-
-# 请勿使用常用的账号部署此项目，以免封号！！
 
 ## 部署步骤
 
@@ -88,13 +82,4 @@ ShadowSocks
 插件选项: tls;host=xxx-xxx.prod-glb.koyeb.app;path=/24b4b1e1-7a89-45f6-858c-242cf53b5bdb-ss
 ```
 
-## 注意
 
-请勿滥用本仓库
-
-## 赞助我们
-
-![afdian-MisakaNo.jpg](https://s2.loli.net/2021/12/25/SimocqwhVg89NQJ.jpg)
-
-## 交流群
-[Telegram](https://t.me/misakanetcn)
